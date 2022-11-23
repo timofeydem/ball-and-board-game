@@ -10,6 +10,8 @@
 ### Наберите как можно больше очков, отбивая шарик платформой. Если шарик пролетит мимо платформы - вы проиграли. Ставьте новые рекорды и соревнуйтесь с друзьями!
 
 ## Скриншоты игры:
-<img width="450" alt="Screenshot 2022-11-23 at 16 29 05" src="https://user-images.githubusercontent.com/112937966/203559034-f9bb44ef-e393-4ca0-88aa-a9fedfcf32b8.png">
+
 
 <img width="517" alt="Screenshot 2022-11-23 at 16 29 19" src="https://user-images.githubusercontent.com/112937966/203559054-60f9661e-4ab2-4aa8-90d3-7060e68a9297.png">
+
+<img width="506" alt="Screenshot 2022-11-23 at 16 31 53" src="https://user-images.githubusercontent.com/112937966/203559337-d6130203-0b7d-43d9-98ad-1bb6aec425d3.png">
